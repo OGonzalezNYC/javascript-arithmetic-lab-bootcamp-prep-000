@@ -15,5 +15,5 @@ function divide(a, b) {
 }
 
 function inc(n) {
-number = number + 1
+number = n + 1
 }
