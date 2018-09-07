@@ -18,5 +18,6 @@ function inc(n) {
 //var number = n
 n++
 //number++
-return number
+//return number
+return n
 }
